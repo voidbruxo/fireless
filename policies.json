@@ -1,0 +1,21 @@
+{
+  "policies": {
+    "DisableFormHistory": true,
+    "DisableFirefoxAccounts": true,
+    "DisableAppUpdate": true,
+    "NetworkPrediction": false,
+    "CaptivePortal": false,
+    "DNSOverHTTPS": {
+      "Enabled": false
+    },
+    "DisableFirefoxStudies": true,
+    "DisableTelemetry": true,
+    "DisablePocket": true,
+    "DisableBuiltinPDFViewer": true
+  },
+  "Permissions": {
+    "Autoplay": {
+    "Default": "block-audio-video"
+    }
+    } 
+}
