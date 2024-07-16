@@ -7,6 +7,7 @@ firefox less evil with my custom setup
 <b> Incomplete </b>
 <hr>
 # Credits
+<br>
 <b> thank you all for such a nice projects :D </b>
 <br>
 https://codeberg.org/Narsil/user.js
