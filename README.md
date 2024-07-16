@@ -1,10 +1,11 @@
 # fireless
 --------------------------------------------------
 firefox less evil with my custom setup
-<hr>
-TL;DR : this project is still
+<br>
+<b>TL;DR</b>
+: this project is still
 <b> Incomplete </b>
---------------------------------------------------
+<hr>
 # Credits
 <b> thank you all for such a nice projects :D </b>
 <br>
