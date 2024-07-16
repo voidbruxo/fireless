@@ -1,7 +1,7 @@
 # fireless
 --------------------------------------------------
 firefox less evil with my custom setup
-<br>
+<hr>
 TL;DR : this project is still
 <b> Incomplete </b>
 --------------------------------------------------
