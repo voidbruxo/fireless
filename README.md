@@ -9,6 +9,7 @@ firefox less evil with my custom setup
 to do list :
 <br>
 - make a bash script to simplfy steps
+<br>
 - remove all uneeeded collect data in omni.ja and so on
 <hr>
 # Credits
