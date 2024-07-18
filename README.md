@@ -6,6 +6,10 @@ firefox less evil with my custom setup
 : this project is still
 <b> Incomplete </b>
 <hr>
+to do list :
+- make a bash script to simplfy steps
+- remove all uneeeded collect data in omni.ja and so on
+<hr>
 # Credits
 <br>
 <b> thank you all for such a nice projects :D </b>
