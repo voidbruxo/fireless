@@ -7,6 +7,7 @@ firefox less evil with my custom setup
 <b> Incomplete </b>
 <hr>
 to do list :
+<br>
 - make a bash script to simplfy steps
 - remove all uneeeded collect data in omni.ja and so on
 <hr>
