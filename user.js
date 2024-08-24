@@ -803,6 +803,12 @@ user_pref("security.sandbox.gpu.level", 1);
 // Enable Site Isolation
 user_pref("fission.autostart", true);
 user_pref("gfx.webrender.all", true);
+// -------------------------------------
+// Disable Relay email feature
+user_pref("signon.firefoxRelay.feature", "disabled");
+// -------------------------------------
+// Disable Privacy-Preserving Attribution
+user_pref("dom.private-attribution.submission.enabled", false);
 //
 // >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 // OPTIONAL HARDENING
